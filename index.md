@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# 25th INTERNATIONAL WORKSHOP ON ALGEBRAIC DEVELOPMENT TECHNIQUES 2020
 
-You can use the [editor on GitHub](https://github.com/Roggenbach/Roggenbach.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Aims and scope
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The algebraic approach to system specification encompasses many aspects of the formal design of software systems. Originally born as a formal method for reasoning about abstract data types, it now covers new specification frameworks and programming paradigms (such as object-oriented, aspect oriented, agent-oriented, logic and higher-order functional programming) as well as a wide range of application areas (including information systems, concurrent, distributed and mobile systems). The workshop will provide an opportunity to present recent and ongoing work, to meet colleagues, and to discuss new ideas and future trends.
 
-### Markdown
+WADT 2020 will have three thematic streams and one general stream:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Graph Transformation – chair: Andrea Corradini, Italy
+* System Modelling – chair: Alexander Knapp, Germany
+* Term Rewriting – chair: Grigore Rosu, US
+* General Stream - chair: Markus Roggenbach, UK
 
-```markdown
-Syntax highlighted code block
+### Graph Transformation Stream
 
-# Header 1
-## Header 2
-### Header 3
+The graph transformation stream seeks contributions addressing theoretical, application oriented or tool related aspects of graph transformation, or any combination of them. Here is a non-exclusive list of topics:
 
-- Bulleted
-- List
+- Foundations of algebraic and set-based approaches to graph transformation
+- Relations between graph transformation and other computational models
+- Analysis, verification, validation and testing of graph transformation systems
+- Applications to software engineering, including software architectures, refactoring, business processes, access control and service-orientation
+- Applications to computing paradigms such as bio-inspired, string diagrams, quantum, ubiquitous, and visual computing
+- Tools based on or supporting the development of graph transformation systems.
 
-1. Numbered
-2. List
+### System Modelling Stream
 
-**Bold** and _Italic_ and `Code` text
+The system modelling stream seeks contributions in the (co-)algebraic and model-based tradition of system specification and verification, for which typical, but not exclusive topics of interest are:
 
-[Link](url) and ![Image](src)
-```
+    - Systems modelling
+    - System views and consistency
+    - Real-time, Hybrid, and Cyber-physical systems
+    - Modelling languages, like UML, SysML, etc., and their profiles
+    - Model transformations
+    - Model-based testing
+    - Tools for systems specification, testing, and verification
+    
+    
+### General Stream
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Typical, but not exclusive topics of interest  for the general stream are: 
 
-### Jekyll Themes
+   - Foundations of algebraic specification
+   - Other approaches to formal specification, including process calculi and models of concurrent, distributed, and cyber-physical systems
+   - Specification languages, methods, and environments
+   - Semantics of conceptual modelling methods and techniques
+   - Integration of formal specification techniques
+   - Formal testing and quality assurance, validation, and verification
+   - Algebraic approaches to cognitive sciences, including computational creativity
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Roggenbach/Roggenbach.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The workshop takes place under the auspices of IFIP WG 1.3. 
