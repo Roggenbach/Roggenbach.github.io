@@ -1,5 +1,7 @@
 # 25th INTERNATIONAL WORKSHOP ON ALGEBRAIC DEVELOPMENT TECHNIQUES 2020
 
+The 25th International Workshop on Algebraic Development Techniques 2020 will be co-located with ETAPS 2020 in Dublin.
+
 ## Aims and scope
 
 The algebraic approach to system specification encompasses many aspects of the formal design of software systems. Originally born as a formal method for reasoning about abstract data types, it now covers new specification frameworks and programming paradigms (such as object-oriented, aspect oriented, agent-oriented, logic and higher-order functional programming) as well as a wide range of application areas (including information systems, concurrent, distributed and mobile systems). The workshop will provide an opportunity to present recent and ongoing work, to meet colleagues, and to discuss new ideas and future trends.
