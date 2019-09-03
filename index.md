@@ -26,19 +26,18 @@ The graph transformation stream seeks contributions addressing theoretical, appl
 
 The system modelling stream seeks contributions in the (co-)algebraic and model-based tradition of system specification and verification, for which typical, but not exclusive topics of interest are:
 
-    - Systems modelling
-    - System views and consistency
-    - Real-time, Hybrid, and Cyber-physical systems
-    - Modelling languages, like UML, SysML, etc., and their profiles
-    - Model transformations
-    - Model-based testing
-    - Tools for systems specification, testing, and verification
-    
-    
+- Systems modelling
+- System views and consistency
+- Real-time, Hybrid, and Cyber-physical systems
+- Modelling languages, like UML, SysML, etc., and their profiles
+- Model transformations
+- Model-based testing
+- Tools for systems specification, testing, and verification
+        
 ### General Stream
 
 Typical, but not exclusive topics of interest  for the general stream are: 
-
+   
    - Foundations of algebraic specification
    - Other approaches to formal specification, including process calculi and models of concurrent, distributed, and cyber-physical systems
    - Specification languages, methods, and environments
